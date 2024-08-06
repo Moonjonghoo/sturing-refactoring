@@ -12,7 +12,6 @@ import Mood from './Mood';
 import Region from './Region';
 import Type from './Type';
 import { Tmatching, Tsession } from '@/types/TSession';
-import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 
 export type TClientMatchingProps = {
